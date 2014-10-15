@@ -29,5 +29,5 @@ int main() {
     cout<<"Please enter a term number: ";
     cin>>term;
     cout<<fib(term)<<endl;
-    return term;
+    return fib(term);
 }
